@@ -1,12 +1,12 @@
-# @diegoh/eslint-config-node-typescript
+# @diegoh/eslint-config-prettier-typescript-node
 
-Shareable eslint config for Node.js projects using typescript
+Shareable eslint + prettier config for node projects using typescript and jest
 
 ## Usage
 
 1. Install this module
 
-`npm i -D @diegoh/eslint-config-node-typescript`
+`npm i -D @diegoh/eslint-config-prettier-typescript-node`
 
 2. Integrate into your project's eslint config file
 
@@ -15,7 +15,7 @@ E.g. in `.eslintrc.js`
 ```js
 module.exports = {
   // ...
-  extends: ["@diegoh/eslint-config-node-typescript"],
+  extends: ['@diegoh/eslint-config-prettier-typescript-node']
   // ...
 };
 ```

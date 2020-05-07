@@ -10,7 +10,7 @@
     "typescript",
     "prettier"
   ],
-  "main": "eslint/index.js",
+  "main": "src/eslint.js",
   "files": [
     "src/eslint.js",
     "src/prettier.js"

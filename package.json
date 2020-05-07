@@ -1,0 +1,47 @@
+{
+  "name": "@diegoh/eslint-config-node-typescript",
+  "version": "1.0.0",
+  "description": "Shareable eslint + prettier config for node projects using typescript",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "node",
+    "typescript",
+    "prettier"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js",
+    ".prettierrc.js"
+  ],
+  "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoh/eslint-config-node-typescript.git"
+  },
+  "author": "Diego Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoh/eslint-config-node-typescript/issues"
+  },
+  "homepage": "https://github.com/diegoh/eslint-config-node-typescript#readme",
+  "peerDependencies": {
+    "eslint": "^6.8.0",
+    "prettier": "^2.0.5",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.31.0",
+    "@typescript-eslint/parser": "^2.31.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-prettier": "^3.1.3"
+  },
+  "devDependencies": {
+    "snyk": "^1.297.3"
+  }
+}

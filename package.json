@@ -1,6 +1,6 @@
 {
   "name": "@diegoh/eslint-config-prettier-typescript-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shareable eslint + prettier config for node projects using typescript and jest",
   "prettier": "./src/prettier.js",
   "keywords": [

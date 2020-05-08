@@ -24,7 +24,7 @@
     "url": "git+https://github.com/diegoh/eslint-config-prettier-typescript-node.git"
   },
   "author": "Diego Herrera",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/diegoh/eslint-config-prettier-typescript-node/issues"
   },

@@ -90,7 +90,7 @@ module.exports = {
   },
   overrides: [
     {
-      files: ['**/*.spec.ts'],
+      files: ['**/*.spec.ts', '**/test/helpers/**/*.ts'],
       rules: {
         'global-require': 0
       },

@@ -1,6 +1,6 @@
 {
   "name": "@diegoh/eslint-config-prettier-typescript-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shareable eslint + prettier config for node projects using typescript and jest",
   "prettier": "./src/prettier.js",
   "keywords": [
@@ -24,7 +24,7 @@
     "url": "git+https://github.com/diegoh/eslint-config-prettier-typescript-node.git"
   },
   "author": "Diego Herrera",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/diegoh/eslint-config-prettier-typescript-node/issues"
   },

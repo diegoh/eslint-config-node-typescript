@@ -1,5 +1,8 @@
 # @diegoh/eslint-config-prettier-typescript-node
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Package Version](https://img.shields.io/npm/v/@diegoh/eslint-config-prettier-typescript-node)
+
 Shareable eslint + prettier config for node projects using typescript and jest
 
 ## Usage

@@ -17,7 +17,7 @@
   ],
   "scripts": {
     "lint": "eslint -c ./src/eslint.js .",
-    "lint-fix": "eslint  -c ./src/eslint.js . --fix"
+    "lint:fix": "eslint  -c ./src/eslint.js . --fix"
   },
   "repository": {
     "type": "git",
